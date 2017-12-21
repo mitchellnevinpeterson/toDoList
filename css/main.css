@@ -1,0 +1,34 @@
+/*--------------------------------------------------------
+===============Google Fonts===============================
+--------------------------------------------------------*/
+* {
+	font-family: 'Indie Flower', cursive;
+}
+
+/*--------------------------------------------------------
+===============Form=====================================
+--------------------------------------------------------*/
+
+/*adding margin to the button*/
+button {
+	margin-top: 20px;
+}
+
+/*changing the width of the input*/
+input, ol {
+	width: 400px;
+	margin-top: 20px;
+}
+/*adding a bottom border to the list items*/
+.bottom-border {
+	border-bottom: 1px solid #000;
+}
+
+/*Changing the font sizes*/
+h1 {
+	font-size: 50px;
+}
+
+li {
+	font-size: 26px;
+}
